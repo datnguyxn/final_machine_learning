@@ -1,1 +1,2 @@
-# final_machine_learning
+# Machine Learning
+## This is repository for Final Machine Learning Exam 1 
